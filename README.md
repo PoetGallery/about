@@ -60,18 +60,20 @@ Each Collection will have in total 135 lines:
 - 5-poet collections will have 9 poems / collection
 
 Tokenomics & Distribution:
-a. 3-poet collections will always have 60 participants (45 poets + 15 artists)
-b. 5-poet collections will have 54 participants (45 poets + 9 artists)
-c. We do a linear distribution, so if the same person/address repeats, it just gets paid 2, 3, ..., times.
-6. Breakdown is as follows:
-a. 20% for Room Creators & 20% for Artists: 
-a.1. 3-room collections: 2.22% per Room Creator, 1.33% per Artist
-a.2. 5-room collections: 1.33% per Room Creator, 2.22% per Artist
-b. 40% for other Poets participating:
-b.1. 3-room collections: 1.33% per Poet (30 participants)
-b.2. 5-room collections: 1.11% per Poet (36 participants)
-c. 10% for Dev Team
-d. 10% for DAO Treasury & Protocol Development
+- 3-poet collections will always have 60 participants (45 poets + 15 artists)
+- 5-poet collections will have 54 participants (45 poets + 9 artists)
+- We do a linear distribution, so if the same person/address repeats, it just gets paid 2, 3, ..., times.
+- Breakdown is as follows:
+-   20% for Room Creators & 20% for Artists: 
+-    3-room collections: 
+-     2.22% per Room Creator, 1.33% per Artist
+-    5-room collections: 
+-     1.33% per Room Creator, 2.22% per Artist
+-   40% for other Poets participating:
+-     3-room collections: 1.33% per Poet (30 participants)
+-     5-room collections: 1.11% per Poet (36 participants)
+-   10% for Dev Team
+-   10% for DAO Treasury & Protocol Development
 
 ### Links
 - [Video Demo](https://www.youtube.com/)
